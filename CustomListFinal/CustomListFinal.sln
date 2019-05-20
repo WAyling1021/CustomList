@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomListFinal", "CustomListFinal\CustomListFinal.csproj", "{CAE18EBD-71EA-4BE2-85D6-DCB4D9F55C8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3EC0C33D-9BA9-49A9-B382-A1ED1B57AEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE18EBD-71EA-4BE2-85D6-DCB4D9F55C8C}.Debug|x86.ActiveCfg = Debug|x86
+		{CAE18EBD-71EA-4BE2-85D6-DCB4D9F55C8C}.Debug|x86.Build.0 = Debug|x86
+		{CAE18EBD-71EA-4BE2-85D6-DCB4D9F55C8C}.Release|x86.ActiveCfg = Release|x86
+		{CAE18EBD-71EA-4BE2-85D6-DCB4D9F55C8C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

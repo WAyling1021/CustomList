@@ -1,0 +1,6 @@
+/Users/williamayling/Desktop/CustomListFinalProject/CustomListFinal/CustomListFinal/bin/Debug/CustomListFinal.exe
+/Users/williamayling/Desktop/CustomListFinalProject/CustomListFinal/CustomListFinal/bin/Debug/CustomListFinal.pdb
+/Users/williamayling/Desktop/CustomListFinalProject/CustomListFinal/CustomListFinal/obj/x86/Debug/CustomListFinal.csprojAssemblyReference.cache
+/Users/williamayling/Desktop/CustomListFinalProject/CustomListFinal/CustomListFinal/obj/x86/Debug/CustomListFinal.csproj.CoreCompileInputs.cache
+/Users/williamayling/Desktop/CustomListFinalProject/CustomListFinal/CustomListFinal/obj/x86/Debug/CustomListFinal.exe
+/Users/williamayling/Desktop/CustomListFinalProject/CustomListFinal/CustomListFinal/obj/x86/Debug/CustomListFinal.pdb
